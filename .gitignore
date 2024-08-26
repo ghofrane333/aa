@@ -1,0 +1,15 @@
+# Ignorer les fichiers de configuration Databricks
+databricks_job.json
+
+# Ignorer les fichiers temporaires de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorer les environnements virtuels
+venv/
+.env
+
+# Ignorer les fichiers de configuration de IDE
+.vscode/
+.idea/
